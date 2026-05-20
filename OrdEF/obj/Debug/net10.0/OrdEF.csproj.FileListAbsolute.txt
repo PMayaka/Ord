@@ -1,0 +1,14 @@
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\bin\Debug\net10.0\OrdEF.deps.json
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\bin\Debug\net10.0\OrdEF.runtimeconfig.json
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\bin\Debug\net10.0\OrdEF.dll
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\bin\Debug\net10.0\OrdEF.pdb
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\obj\Debug\net10.0\OrdEF.csproj.AssemblyReference.cache
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\obj\Debug\net10.0\OrdEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\obj\Debug\net10.0\OrdEF.AssemblyInfoInputs.cache
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\obj\Debug\net10.0\OrdEF.AssemblyInfo.cs
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\obj\Debug\net10.0\OrdEF.csproj.CoreCompileInputs.cache
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\obj\Debug\net10.0\OrdEF.dll
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\obj\Debug\net10.0\refint\OrdEF.dll
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\obj\Debug\net10.0\OrdEF.pdb
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\obj\Debug\net10.0\OrdEF.genruntimeconfig.cache
+C:\Users\phill\OneDrive\udcisc\DataMining\final\OrdEF\obj\Debug\net10.0\ref\OrdEF.dll
